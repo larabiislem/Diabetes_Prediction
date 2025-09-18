@@ -5,6 +5,7 @@ This project analyzes a diabetes dataset and builds a machine learning model to 
 ## Overview
 
 The notebook:
+
 - Loads and explores a diabetes dataset (`kaggle_diabetes.csv`)
 - Visualizes important features by diabetes status
 - Handles missing data and cleans the dataset
